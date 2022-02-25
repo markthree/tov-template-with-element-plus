@@ -1,6 +1,8 @@
 # tov-template-wite-element-plus
 
-一个 ` vite + vue3 + ts ` 开箱即用现代开发模板，但更专注 `element-plus`
+一个 ` vite + vue3 + ts ` 开箱即用现代开发模板，但更专注 `element-plus`。
+
+> 该仓库更新是不及时的，更新更及时的工程化集成可见 👉 [tov-template](https://github.com/dishait/tov-template)
 
 <br />
 <br />
