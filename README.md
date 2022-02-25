@@ -1,6 +1,6 @@
-# tov-template
+# tov-template-wite-element-plus
 
-一个 ` vite + vue3 + ts ` 开箱即用现代开发模板
+一个 ` vite + vue3 + ts ` 开箱即用现代开发模板，但更专注 `element-plus`
 
 <br />
 <br />
@@ -524,34 +524,6 @@ export default defineStore('counter', {
     <Hello />
 </template>
 ```
-
-同时流行组件库自动引入也是支持的，例如 `Naive ui`。
-
-只需安装依赖。
-
-```shell
-pnpm add naive-ui
-
-# 或者 npm i naive-ui
-# 或者 yarn add naive-ui
-```
-即可在模板中使用。
-
-```html
-<!-- src/pages/index.vue -->
-<template>
-    <n-button type="success">Success</n-button>
-</template>
-```
-目前支持的组件库有:
-
-- [naive ui](https://www.naiveui.com/zh-CN/os-theme)
-- [arco.design](https://arco.design/)
-- [element-plus](https://element-plus.gitee.io/zh-CN/)
-- [ant design of vue](https://next.antdv.com/docs/vue/introduce-cn/)
-- [@vueuse/components](https://vueuse.org/guide/components.html)
-
-具体可见 👉 [unplugin-vue-components](https://github.com/antfu/unplugin-vue-components)
 
 <br />
 
