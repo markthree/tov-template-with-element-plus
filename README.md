@@ -39,30 +39,6 @@
 <br />
 <br />
 
-## 克隆模板 🦕
-
-1. Github
-
-```shell
-git clone git@github.com:dishait/tov-template.git
-```
-2. Gitee
-
-```shell
-git clone git@gitee.com:dishait/tov-template.git
-```
-
-3. degit
-
-```shell
-npx degit https://github.com/dishait/tov-template#main
-```
-4. 新的 `Github` 仓库 👉 [Use this template](https://github.com/dishait/tov-template/generate)
-
-<br />
-<br />
-<br />
-
 ## `node` 版本推荐 🐎
 
 因为该模板完全面向现代，所以推荐大家使用 `node` 当前的长期维护版本 `v16`， 大于 `v16.13.1` 即可。
